@@ -1,7 +1,7 @@
 /*
 Project Name: University Management System (Project Olivia)
-Student Roll: 1907031
-Student Name: Naimur Rahman
+Student Roll: 1907060
+Student Name: Tanvir Hossain
 */
 
 /*
@@ -15,13 +15,13 @@ Admin Panel:
 3.	Updating Teachers & students Information using Function +  Pointer + File
 4.	Assigning courses to teacher using Function + File
 
-Teacher’s Panel:
+Teacherâ€™s Panel:
 1.	Login using Function + File
 2.	Provide class test marks using Function + File
 3.	Find the student by the given first name using Function + File + pointer
 4.	Count of Students using Function + File
 
-Student’s Panel:
+Studentâ€™s Panel:
 1.	Login using Function + File
 2.	Check the class test marks using Function + File
 */
